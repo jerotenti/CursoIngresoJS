@@ -5,4 +5,10 @@ function mostrar()
 {
 	alert("Esto funciona de maravilla");
 }
+/*
+Errores:
+	Sintaxis: cómo escribo (faltas de ortografía en el programa)
+	Lógica: lógica de cómo programo, y que veo en tiempo de ejecución
+*/
+
 
